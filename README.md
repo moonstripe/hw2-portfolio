@@ -9,5 +9,6 @@
     * Work in progress, added index.html, portfolio.html, and contact.html. Includes responsive design and sticky footer.
 
 ## Meta
+Repository [here](https://github.com/moonstripe11/hw2-portfolio) .
 
 Kojin Glick – [@kojinglick](https://twitter.com/kojinglick) – kojinglick@gmail.com
